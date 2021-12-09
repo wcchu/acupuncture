@@ -1,6 +1,6 @@
 header {
     background-image: url(img/cover.jpg);
-    background-color: orange;
+    background-color: gray;
     background-blend-mode: multiply;
     background-size: cover;
     background-position: center;
@@ -18,14 +18,16 @@ header {
 .header-text-box h1 {
     margin: 0 30px;
     color: white;
-    font-size: 80px;
+    text-align: center;
+    font-size: 100px;
     font-weight: 300;
     font-style: italic;
 }
 
 .header-text-box h2 {
     margin: 0 60px;
-    color: orange;
+    color: white;
+    text-align: center;
     font-size: 40px;
     font-weight: 350;
 }
